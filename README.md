@@ -66,8 +66,8 @@ Además del desarrollo videojuegos en mi tiempo libre. ¡Todos son fangames por 
 |-------|-------------|
 | 🕹️ [Astray [JJK Fangame]](https://bluemangoo.itch.io/astray-jjk-fangame) | Fangame de Jujutsu Kaisen |
 | 🕹️ [Blue Ridding Hood [IDV Fangame]](https://bluemangoo.itch.io/blue-ridding-hood) | Fangame de Identity V |
-| 🕹️ [Ready, Set... Date! [NaibEli IDV Fangame]](https://bluemangoo.itch.io/ready-set-date-naibeli-idv-fangame) | Fangame de Surveyor × Eli Clark (Identity V) |
-| 🕹️ [Locked Up and Scramble [NaibEli IDV Fangame]](https://bluemangoo.itch.io/locked-up-and-scramble-naibeli-idv-fangame) | Fangame de Surveyor × Mr. Inference (Identity V) |
+| 🕹️ [Ready, Set... Date! [NaibEli IDV Fangame]](https://bluemangoo.itch.io/ready-set-date-naibeli-idv-fangame) | Fangame de Identity V |
+| 🕹️ [Locked Up and Scramble [NaibEli IDV Fangame]](https://bluemangoo.itch.io/locked-up-and-scramble-naibeli-idv-fangame) | Fangame de Identity V |
 
 🔗 **[Ver todos mis juegos en itch.io →](https://bluemangoo.itch.io)**
 
