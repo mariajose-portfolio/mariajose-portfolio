@@ -41,7 +41,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🎨 [Blobbugotchi](./proyecto-dam-blobbugotchi/) | Diseño y prototipado de interfaces de usuario | Java · SQLite · Android Studio |
+| 🐾 [Blobbugotchi](https://github.com/mariajose-portfolio/proyecto-dam-blobbugotchi) | App Android estilo Tamagotchi con Pomodoro integrado | Java · SQLite · Android Studio |
 
 ---
 
