@@ -7,7 +7,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 🙋‍♀️ Sobre mí
 
 - 🎓 Cursando **2.º DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - 💻 Me apasiona el **desarrollo backend** y el **diseño de interfaces**
@@ -41,7 +41,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🎨 [Blobbugotchi(./proyecto-dam-blobbugotchi/) | Diseño y prototipado de interfaces de usuario | Java · SQLite · Android Studio |
+| 🎨 [Blobbugotchi](./proyecto-dam-blobbugotchi/) | Diseño y prototipado de interfaces de usuario | Java · SQLite · Android Studio |
 
 ---
 
@@ -58,7 +58,7 @@
 
 <p align="left">
   <a href="https://github.com/mariajose-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mariajose-portfolio-%23181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-mariajose--portfolio-%23181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
