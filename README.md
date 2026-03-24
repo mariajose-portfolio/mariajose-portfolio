@@ -10,7 +10,7 @@
 
 - 🎓 Cursando **2.º DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - 💻 Me apasiona el **desarrollo backend** y el **diseño de interfaces**
-- 🎮 Creadora de videojuegos con RPGMaker en mis ratos libres
+- 🎮 Creadora de videojuegos en mis ratos libres
 - 🌱 Siempre con ganas de aprender nuevas tecnologías
 - 📍 España
 
